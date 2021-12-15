@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/moonbase2007/moonbase/_apis/build/status/moonbase-Maven-CI?branchName=master)](https://dev.azure.com/moonbase2007/moonbase/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
